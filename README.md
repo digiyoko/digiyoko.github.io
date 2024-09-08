@@ -1,2 +1,2 @@
 # digiyoko.github.io
-For Digital Marketing
+For Web Development
